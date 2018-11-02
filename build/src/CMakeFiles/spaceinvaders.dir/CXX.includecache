@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/manenwolf/Desktop/spaceinvaders/src/bullet.cpp
+bullet.h
+/home/manenwolf/Desktop/spaceinvaders/src/bullet.h
+
+/home/manenwolf/Desktop/spaceinvaders/src/bullet.h
+entity.h
+/home/manenwolf/Desktop/spaceinvaders/src/entity.h
+
+/home/manenwolf/Desktop/spaceinvaders/src/entity.h
+iostream
+-
+file.h
+/home/manenwolf/Desktop/spaceinvaders/src/file.h
+
+/home/manenwolf/Desktop/spaceinvaders/src/file.h
+iostream
+-
+boost/property_tree/ptree.hpp
+-
+boost/property_tree/xml_parser.hpp
+-
+

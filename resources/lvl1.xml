@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<steptime>1000000</steptime>
+<enemy0>../resources/enemy1.xml</enemy0>
+<enemy1>../resources/enemy2.xml</enemy1>
+<enemy2>../resources/enemy2.xml</enemy2>
+<enemy3>../resources/enemy3.xml</enemy3>
+<enemy4>../resources/enemy3.xml</enemy4>

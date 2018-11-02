@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<numtextures>5</numtextures>
+<t0>../resources/bullet.png</t0>
+<t1>../resources/player.png</t1>
+<t2>../resources/enemy.png</t2>
+<t3>../resources/enemy2.png</t3>
+<t4>../resources/enemy3.png</t4>

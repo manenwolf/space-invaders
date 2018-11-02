@@ -1,0 +1,1 @@
+/home/manenwolf/Desktop/spaceinvaders/build/src/CMakeFiles/spaceinvaders.dir
