@@ -1,5 +1,5 @@
-# space-invaders
-### een SFML implementatie van het iconische spel space invaders
+# Space invaders
+### Een SFML implementatie van het iconische spel space invaders.
 
 
-to build run the run.sh script
+To build run the run.sh script.
